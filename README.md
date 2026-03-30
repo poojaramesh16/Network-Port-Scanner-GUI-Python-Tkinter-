@@ -68,6 +68,27 @@ nmap_portscan_gui/
 └── README.md
 ```
 
+## Screenshots
+
+### 1. Empty GUI
+This is the initial interface of the application before starting the scan.
+
+![Empty GUI](images/empty_gui.png)
+
+---
+
+### 2. Input Fields Filled
+User enters the target host, start port, and end port.
+
+![Input Filled](images/input_filled.png)
+
+---
+
+### 3. Scan Output
+Displays open ports and their respective services in real time.
+
+![Scan Output](images/output.png)
+
 ## Disclaimer
 
 Use this tool only on hosts and networks you own or have explicit permission to scan. Unauthorized port scanning may be illegal in your jurisdiction.
